@@ -1,3 +1,4 @@
-# Linux Basics.Md
+## Day 1 - Linux Basics
+- Installed VirtualBox and Ubuntu
+- Learned commands: `whoami`, `pwd`, `ls`, `cd`
 
-*Your content goes here...*
