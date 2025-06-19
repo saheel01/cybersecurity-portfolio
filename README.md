@@ -1,4 +1,4 @@
-# 🔐 Saheel's Cybersecurity Portfolio
+# 🔐 Saheel Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! I'm an aspiring Blue Team and Cloud Security professional from Nepal, building hands-on projects and documenting everything I learn on my path to becoming a SOC Analyst and eventually a Cloud Security Engineer.
 
