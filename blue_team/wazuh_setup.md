@@ -1,3 +1,3 @@
-# Readme.Md
+# Wazuh Setup.Md
 
 *Your content goes here...*
