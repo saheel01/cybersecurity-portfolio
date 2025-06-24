@@ -9,8 +9,3 @@
  IP Addressing:
 - IP = internet address of a device
 - Common Ports: 22 (SSH), 80 (HTTP), 443 (HTTPS), 3389 (RDP)
-
- CIA Triad:
-- Confidentiality: Encryption
-- Integrity: Hashing
-- Availability: Redundancy, DDoS Protection
