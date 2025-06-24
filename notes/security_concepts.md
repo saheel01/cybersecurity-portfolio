@@ -1,6 +1,6 @@
 # Security Concepts.Md
 
- CIA Triad:
+ ##CIA Triad:
 - Confidentiality: Encryption
 - Integrity: Hashing
 - Availability: Redundancy, DDoS Protection
