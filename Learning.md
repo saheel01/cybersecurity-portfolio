@@ -26,3 +26,24 @@
 ### Reflection:
 - Now seeing how scripts help automate boring detection tasks
 - TryHackMe is giving hands-on experience without needing local tools yet
+
+## Day 4 – Log Analysis + TryHackMe Linux
+
+### ✅ Python Script:
+- Created `log_parser.py` to detect failed login attempts
+- Used file reading, loops, and regex matching
+- Sample file: `sample_auth.log`
+
+### ✅ Python Concepts Learned:
+- Functions
+- Regex filtering
+- Reusable detection logic
+
+### ✅ TryHackMe Progress:
+- Started "Linux Fundamentals Part 1"
+- Learned Linux file structure and key commands (`ls`, `cd`, `chmod`, `ps`, etc.)
+
+### 🔍 Reflection:
+- Real logs are messy but fun to analyze
+- Python makes repetitive tasks way easier
+- Linux knowledge will help a lot in incident response
